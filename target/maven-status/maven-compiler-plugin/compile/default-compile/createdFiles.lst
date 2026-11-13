@@ -1,0 +1,15 @@
+ec\edu\espoch\yasuniexplora\objects\InterpretiveTour.class
+ec\edu\espoch\yasuniexplora\objects\TourPlanner.class
+ec\edu\espoch\yasuniexplora\YasuniExplora.class
+ec\edu\espoch\yasuniexplora\objects\RegularTour.class
+ec\edu\espoch\yasuniexplora\daointerface\DeviceDAO.class
+ec\edu\espoch\yasuniexplora\datasource\TourDAOImpl.class
+ec\edu\espoch\yasuniexplora\datasource\GuideDAOImpl.class
+ec\edu\espoch\yasuniexplora\objects\OrderCriterion.class
+ec\edu\espoch\yasuniexplora\daointerface\TourDAO.class
+ec\edu\espoch\yasuniexplora\objects\Trail.class
+ec\edu\espoch\yasuniexplora\datasource\DeviceDAOImpl.class
+ec\edu\espoch\yasuniexplora\objects\Tour.class
+ec\edu\espoch\yasuniexplora\daointerface\GuideDAO.class
+ec\edu\espoch\yasuniexplora\objects\Guide.class
+ec\edu\espoch\yasuniexplora\objects\CommunicationDevice.class
